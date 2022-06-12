@@ -4,4 +4,6 @@ Neurologie 2
 Zimmer 650
 Eingang durch Kopfklinik
 Notfallaufnahme
+Gebäudenummer 6400
+
 
