@@ -1,2 +1,3 @@
-- [ ] Lauterbach
-- [ ] Kolb 06253 5401
+- [ x] Lauterbach
+- [ x] Kolb 06253 5401
+
