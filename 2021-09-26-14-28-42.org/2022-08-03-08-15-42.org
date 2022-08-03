@@ -1,6 +1,6 @@
-- [ ] Moso
+- [ ] Miso
 - [ ] Feigen
 - [ ] Prodinger
-- [ ] Uwe
+- [x] Uwe
 
 
