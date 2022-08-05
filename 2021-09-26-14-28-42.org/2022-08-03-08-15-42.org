@@ -1,6 +1,8 @@
-- [ ] Miso
-- [ ] Feigen
-- [ ] Prodinger
+- [x] Miso
+- [x] Feigen
+- [x] Prodinger
 - [x] Uwe
+- [ ] Kabeltrommel
+- [ ] Wasserschlauch
 
 
