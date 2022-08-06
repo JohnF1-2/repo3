@@ -1,2 +1,3 @@
-- [ ] Shalter
+- [ ] Schalter
 - [ ] Ausweiss
+
