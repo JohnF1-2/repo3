@@ -1,3 +1,6 @@
 - [ ] Schalter
 - [ ] Ausweiss
+- [ ] Grütze
+- [ ] FAZ
+- 
 
