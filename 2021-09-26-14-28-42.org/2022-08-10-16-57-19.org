@@ -1,4 +1,4 @@
 Gtypist
-kyde2.typ
+ktde2.typ
 Ktde_number.typ
 
