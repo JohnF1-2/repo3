@@ -1,8 +1,0 @@
-- [ ] Schalter
-- [ ] Ausweiss
-- [ ] Grütze
-- [ ] FAZ
-- [ ] Ohr
-- [ ] Schuhe kleben
-- 
-
