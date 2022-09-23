@@ -1,0 +1,4 @@
+Ex Post triage
+
+Entzug einer bereits zugeteilten Ressource.
+Erfolgsaussichten nicht mehr alleiniges Entscheidungskriterium.
