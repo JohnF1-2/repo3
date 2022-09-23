@@ -2,3 +2,5 @@ Ex Post triage
 
 Entzug einer bereits zugeteilten Ressource.
 Erfolgsaussichten nicht mehr alleiniges Entscheidungskriterium.
+Ex Post Triage soll erlaubt werden. 
+
