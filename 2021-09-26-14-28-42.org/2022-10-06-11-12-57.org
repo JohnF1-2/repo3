@@ -1,2 +1,4 @@
 Kaufpreisfindung
 Jahresumsatz
+Insolvenz
+Privatinsolvenz
