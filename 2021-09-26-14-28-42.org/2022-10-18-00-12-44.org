@@ -1,7 +1,7 @@
 "Nightcall" 
 Kim de l'Horizon
 
-Irapetition
+Iranpetition
 
 
 
@@ -10,3 +10,4 @@ Irapetition
 - [ ] USV
 - [ ] Zentrifuge
 - [ ] Lochplatte
+- [ ] Petromax
