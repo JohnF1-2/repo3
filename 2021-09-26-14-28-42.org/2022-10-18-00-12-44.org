@@ -6,9 +6,8 @@ Iranpetition
 
 
 - [ ] Glimmlampen
-- [ ] Lampenfassung
-- [ ] USV
+- [x] Lampenfassung
 - [x] Zentrifuge
 - [ ] Lochplatte
-- [ ] Petromax
+- [x] Petromax
 - [x] Nocodemus Schnabel

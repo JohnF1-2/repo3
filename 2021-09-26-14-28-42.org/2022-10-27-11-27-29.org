@@ -1,0 +1,4 @@
+- [ ] Isolierung
+- [ ] Pumpanschluss
+- [ ] Steckdose
+- [ ] Tür Heizung
