@@ -1,4 +1,4 @@
-COP
+COP Climate Summit 
 Conference of the Parties of th UNFCCC
 UNFCCC ist a Rio Convention (Rio Warth Summit, 1992)
 
@@ -15,4 +15,5 @@ Countrirs = parties
 - Kick Off consideratins of Adaption to
 Climate Change
 
-Emine Sevgi Özdamar
+*Emine Sevgi Özdamar
+
