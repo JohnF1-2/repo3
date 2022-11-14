@@ -1,3 +1,6 @@
 Studie
 Frühe Phase
 -Proof of concept
+
+Angriffsziel -> Neoantigene an HLA-Proteine gebunden
+
