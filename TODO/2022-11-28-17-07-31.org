@@ -1,3 +1,5 @@
+ENTEGA #NOT 
+
 - Anschluss Internet
 - Anschluss bis Router
 - Router Vorraussetzungen 
