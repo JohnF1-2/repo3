@@ -2,3 +2,6 @@ Note #NOT
 - [ ] Stúhle f Bett
 - [ ] Regenrinne
 - [ ] Thermometer
+- [ ] Zahnarzt
+- [ ] Bretter
+
