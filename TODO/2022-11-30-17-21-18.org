@@ -1,2 +1,4 @@
 Note #NOT
 - [ ] Stúhle f Bett
+- [ ] Regenrinne
+- [ ] Thermometer
