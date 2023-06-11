@@ -1,2 +1,3 @@
 - [ ] Fass
 - [ ] Recept
+- [ ] Teppich
