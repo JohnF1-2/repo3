@@ -1,5 +1,6 @@
 - [ ] Fass
 - [x] Recept
 - [ ] Teppich
-- [ ] Algen
-- [ ] Weiden
+- [x] Algen
+- [x] Weiden
+- [ ] Wassersack
