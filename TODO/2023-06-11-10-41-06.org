@@ -1,3 +1,5 @@
 - [ ] Fass
-- [ ] Recept
+- [x] Recept
 - [ ] Teppich
+- [ ] Algen
+- [ ] Weiden
