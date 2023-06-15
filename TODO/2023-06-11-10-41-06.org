@@ -1,4 +1,4 @@
-- [ ] Fass
+- [ ] Fass Grotte
 - [x] Recept
 - [ ] Teppich
 - [x] Algen
